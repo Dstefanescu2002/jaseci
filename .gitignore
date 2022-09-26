@@ -24,3 +24,4 @@ mydatabase
 *Zone.Identifier
 examples/CanoniCAI/mycode/tfm_ner_model/*
 examples/CanoniCAI/mycode/dialogue_intent_model/*
+*.jir
