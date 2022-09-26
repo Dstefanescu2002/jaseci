@@ -174,7 +174,7 @@ graph dialogue_system {
 }
 
 walker talk {
-    has question, interactive = true;
+    has question, interactive = false;
     has wlk_ctx = {
         "intent": null,
         "entities": {},
